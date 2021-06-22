@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "blueimp-load-image": "5.14.0",
-    "bootstrap": "5.0.0",
+    "bootstrap": "5.0.2",
     "htmlparser2-react": "0.0.4",
     "lodash": "4.17.21",
     "lodash.throttle": "4.1.1",
